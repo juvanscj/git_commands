@@ -1,3 +1,8 @@
-#python is a programing language
-#git init>>initalise the git into current folder/directory
-#hello
+git --version
+git config --list
+git Init 
+git status
+git add . /git add <filename>
+git commit -m "message"
+git log
+git diff
